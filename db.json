@@ -1,0 +1,27 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
+      "desc": "qwerty",
+      "location": "qwerty",
+      "like": true
+    },
+    {
+      "desc": "asdfgh",
+      "location": "asdfgh",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
+      "like": false,
+      "id": 2
+    }
+  ],
+  "savePost": [],
+  "likePost": [
+    {
+      "id": 1,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
+      "desc": "qwerty",
+      "location": "qwerty"
+    }
+  ]
+}
